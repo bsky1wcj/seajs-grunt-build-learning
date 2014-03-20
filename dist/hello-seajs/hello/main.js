@@ -1,0 +1,1 @@
+define("dist/hello-seajs/hello/main",["jquery/jquery/1.10.1/jquery"],function(a){var b=a("jquery/jquery/1.10.1/jquery");b(".hello-world").html("Hello World!")});
